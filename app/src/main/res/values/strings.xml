@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SocialNetwork</string>
+    <string name="app_version">1.0.0</string>
+    <string name="app_login">Iniciar sesión</string>
+    <string name="login_google">Iniciar sesión con Google</string>
+    <string name="app_logout">Cerrar sesión</string>
+    <string name="app_txt_user">Usuario</string>
+    <string name="app_txt_pass">Clave</string>
+    <string name="user_email">Correo</string>
+    <string name="user_name">Nombre</string>
+    <string name="user_phone">Telefono</string>
+    <string name="home_groups">Grupos</string>
+    <string name="home_profile">Perfil</string>
+    <string name="app_search_producto_min">Debe escribir almenos 3 letras de un grupo</string>
+</resources>

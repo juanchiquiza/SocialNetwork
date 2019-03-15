@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_margin">20sp</dimen>
+    <dimen name="size_title">28dp</dimen>
+    <dimen name="size_subtitle">14sp</dimen>
+</resources>
